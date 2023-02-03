@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
+    "name": "Vudoos",
     "url": "https://www.vudoos.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.vudoos.org.ico",
-    "slug": "google",
+    "slug": "vudoos",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 271,
-    "timeWeek": 171,
-    "timeMonth": 171,
-    "timeYear": 171,
+    "time": 75,
+    "timeDay": 75,
+    "timeWeek": 75,
+    "timeMonth": 75,
+    "timeYear": 75,
     "dailyMinutesDown": {}
   }
 ]
