@@ -5,19 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vudoos.org.ico",
     "slug": "vudoos",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.63%",
+    "uptimeDay": "42.67%",
+    "uptimeWeek": "91.81%",
+    "uptimeMonth": "98.12%",
+    "uptimeYear": "99.83%",
     "time": 266,
-    "timeDay": 348,
-    "timeWeek": 263,
-    "timeMonth": 278,
+    "timeDay": 320,
+    "timeWeek": 276,
+    "timeMonth": 276,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2024-05-26": 0,
-      "2023-05-28": 43
+      "2024-05-27": 68,
+      "2024-05-26": 758
     }
   }
 ]
