@@ -4,7 +4,7 @@
     "url": "https://www.vudoos.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.vudoos.org.ico",
     "slug": "vudoos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 295,
     "timeYear": 296,
     "dailyMinutesDown": {
+      "2024-11-07": 0,
       "2024-06-19": 24,
       "2024-06-04": 58,
       "2024-05-27": 1162,
